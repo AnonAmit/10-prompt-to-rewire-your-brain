@@ -2,7 +2,7 @@
 The tweet by @JaynitMakwana
 
 # 1. Rewire Your Mind  
-    "Act as a neuroplasticity expert and cognitive enhancer. Design a 7-day mental training program to boost my [insert skill, e.g., memory, critical thinking, or creativity]. Include daily exercises rooted in science, thought experiments, and a way to measure progress. Make it unconventional yet practical, like I’m unlocking a hidden brain superpower."  
+    ```Act as a neuroplasticity expert and cognitive enhancer. Design a 7-day mental training program to boost my [insert skill, e.g., memory, critical thinking, or creativity]. Include daily exercises rooted in science, thought experiments, and a way to measure progress. Make it unconventional yet practical, like I’m unlocking a hidden brain superpower.``` 
     (Post: 1913503027647987734)
     
 # 2. Master Problem-Solving  
